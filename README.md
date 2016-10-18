@@ -4,6 +4,8 @@
 
 # HTML 5 Desktop Notification
 
+[![CDNJS](https://img.shields.io/cdnjs/v/HTML5Notification.svg)](https://cdnjs.com/libraries/HTML5Notification)
+
 # Support
 - IE 9+
 - Edge
